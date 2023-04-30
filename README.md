@@ -1,5 +1,7 @@
 # Center for Human Nutrition
 
+Code adapted from Dr. Jieping Yang
+
 **Project 1: Kombucha**
 
 Shannon index (alpha diversity) of different kombucha products.
